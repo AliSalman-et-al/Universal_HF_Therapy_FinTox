@@ -8,4 +8,4 @@ This content is intended solely for private academic collaboration among authori
 
 Unauthorized access or use is strictly prohibited and may result in legal action. If you have accessed this content without permission, please delete all copies immediately and notify the author.
 
-**Author: Ali Salman <alisalman.md@outlook.com>**
+**Author: Ali Salman <alisalman.et.al@gmail.com>**
